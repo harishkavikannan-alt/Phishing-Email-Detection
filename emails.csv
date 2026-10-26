@@ -1,0 +1,51 @@
+text,label
+"Urgent: Your Chase bank account has been locked due to suspicious activity. Verify your identity immediately to restore access.",Phishing
+"Hey team, here is the weekly project progress report. Please review the updated milestones before tomorrow's meeting.",Safe
+"Security Alert: Microsoft 365 password reset requested. If you did not make this request, click here immediately to secure your account.",Phishing
+"Hi Alex, are you available for a quick 15-minute sync on Thursday at 2:00 PM regarding the client proposal?",Safe
+"Your PayPal account has been restricted. We noticed unusual login attempts from an unknown device. Update your details now.",Phishing
+"Thank you for shopping at Target! Your order #94829 has been processed. Here is your digital receipt.",Safe
+"Amazon Order Confirmation: Your order for iPhone 15 Pro ($1,199.00) has shipped. If you did not place this order, click here to cancel.",Phishing
+"Reminder: Your upcoming dental appointment is scheduled for Tuesday, November 12th at 10:00 AM.",Safe
+"Netflix: Your subscription payment failed. Update your credit card information immediately to avoid account termination.",Phishing
+"GitHub notification: Pull request #42 has been successfully reviewed and merged into the main branch by Sarah.",Safe
+"IRS Tax Notice: You have an unclaimed tax refund of $1,420.50 waiting. Click the secure link to submit your direct deposit details.",Phishing
+"Hey everyone, we are heading out for lunch at the new taco spot down the street at 12:30. Let me know if you want to join!",Safe
+"URGENT IT NOTICE: We are migrating email servers tonight. You must log in here with your corporate credentials to prevent mailbox deletion.",Phishing
+"Your flight reservation confirmation for Flight AA-302 to Chicago O'Hare is confirmed. E-ticket and boarding pass attached.",Safe
+"Congratulations! You have been selected to receive 0.50 Bitcoin in our crypto giveaway. Claim your prize wallet now.",Phishing
+"Attached are the lecture slides and reading materials from today's linear algebra class on eigenvalues.",Safe
+"From CEO: Are you at your desk right now? I need an urgent wire transfer processed for a new vendor before 5:00 PM today.",Phishing
+"Please note that the office will be closed next Monday in observance of the upcoming national holiday.",Safe
+"Google Winner Notification: Your email address won $2,500,000 in the Google International Lottery Draw. Contact agent immediately.",Phishing
+"Left some comments on your code review pull request. Great work overall, just a few minor cleanups suggested.",Safe
+"FedEx Delivery Alert: We attempted to deliver your package today but failed. Pay $2.99 redelivery fee online to reschedule.",Phishing
+"Your public library loan for 'Clean Code' is due in 3 days. You can renew your loan online if needed.",Safe
+"LinkedIn: You have 5 unread messages from tech recruiters waiting. Click here to view your profile and messages.",Phishing
+"Monthly gym membership payment was successfully processed. We look forward to seeing you at your next workout session!",Safe
+"OVERDUE INVOICE: Invoice #INV-2024-889 is past due. Immediate payment required to avoid legal collection procedures.",Phishing
+"Sprint retrospective summary notes have been posted to Confluence. Please check your action items for the upcoming sprint.",Safe
+"Dropbox Alert: Your cloud storage space is full. Upgrade your plan now or all your stored files will be permanently deleted.",Phishing
+"Your order of the ergonomic wireless mouse has shipped via UPS. Tracking number is 1Z9999999999999999.",Safe
+"Apple ID Alert: Your Apple ID was locked for security reasons. Click here to verify your account information and unlock it.",Phishing
+"Hey Sarah, could you email me the slide deck from yesterday's product design presentation when you get a chance?",Safe
+"Final Notice: You have an unclaimed $500 Walmart gift card expiring tonight at midnight. Click to redeem.",Phishing
+"Reminder: Parent-teacher conferences are scheduled for Wednesday afternoon between 3:00 PM and 6:00 PM.",Safe
+"DHL Express: Customs duty unpaid on tracking number #849204. Clear customs payment online now to release your shipment.",Phishing
+"Here is the delicious homemade pasta recipe we talked about during lunch yesterday. Let me know how it turns out!",Safe
+"McAfee Security Alert: Your antivirus protection expired today. 5 security threats detected on your PC. Renew immediately.",Phishing
+"Slack desktop app update version 4.35 is now ready to install with bug fixes and performance improvements.",Safe
+"Bank of America Alert: An international wire transfer of $4,850 was initiated. If this was not you, cancel the transaction now.",Phishing
+"Your hotel reservation at Grand Hyatt is confirmed for check-in on Friday. We look forward to hosting you.",Safe
+"Facebook Security: Someone attempted to reset your password from a new location. Use this one-time code to secure your profile.",Phishing
+"Thank you for volunteering at the weekend community food drive. Together we packed over 400 family meal kits!",Safe
+"Voicemail Notification: You have 1 new pending audio voicemail (0:45 seconds). Click here to play the audio message online.",Phishing
+"Your monthly electric utility bill for October is now available to view and pay in your customer web portal.",Safe
+"ATTENTION: Your payroll direct deposit information needs immediate re-verification. Submit banking details to avoid delayed paycheck.",Phishing
+"Thanks for the coffee catch-up yesterday! It was great reconnecting. Let's make sure to keep in touch.",Safe
+"Suspicious activity detected on your Instagram account. Confirm your login credentials within 24 hours to prevent account ban.",Phishing
+"Team: Don't forget that open enrollment for healthcare and company benefits closes this Friday at 5:00 PM.",Safe
+"You have received an encrypted document from DocuSign. Enter your email password to unlock and electronically sign the document.",Phishing
+"The quarterly all-hands meeting has been moved to Conference Room B on the third floor. Zoom link remains the same.",Safe
+"Action Required: Your credit score dropped 45 points due to a new negative inquiry. Click to view your full credit report.",Phishing
+"Your car maintenance service at the dealership is confirmed for Saturday morning at 9:00 AM for oil change and tire rotation.",Safe
